@@ -5,5 +5,5 @@
 
 **Содержимое**
 
-game_ind_project.ipynb - основной анализ
-requirements.txt - используемые библиотеки в анализе
+- game_ind_project.ipynb - основной анализ
+- requirements.txt - используемые библиотеки в анализе
